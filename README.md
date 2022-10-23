@@ -9,8 +9,8 @@
 - 🖥️  See my portfolio at https://derickmakhubela.netlify.app
 - 👨‍👩‍👦‍👦 My family is my "why"
 
-
 Skills
+
 Frontend
 React Bootstrap CSS3 HTML5 JavaScript Next.js Tailwind.CSS WordPress Figma WooCommerce
 Backend
