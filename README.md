@@ -6,7 +6,7 @@
 - 💞️  I would like to collaborate on interesting open source projects ...
 - 📫  How to reach me derekmakhubela@gmail.com
 - 🌍  I'm based in Johannesburg South Africa
-- 🖥️  See my portfolio at https://derickmakhubela.netlify.app
+- 🖥️  See my portfolio at https://derickmakhubela3d-portfolio.netlify.app
 - 👨‍👩‍👦‍👦 My family is my "why"
 
 Skills
@@ -14,7 +14,7 @@ Skills
 Frontend
 React Bootstrap CSS3 HTML5 JavaScript Next.js Tailwind.CSS WordPress Figma WooCommerce
 Backend
-JavaScript MongoDB Node.js Express.js Maria DB InfluxDB Heroku Vercel Grafana
+JavaScript Typescript MongoDB Node.js Express.js Maria DB InfluxDB Heroku Vercel Grafana
 DevOps
 Kubernetes Linux Git Bash Docker GitLab Raspberry Pi TensorFlow Nginx GitHub
 
